@@ -7,7 +7,7 @@
 
 /* HEADER SECTION */
 .header {
-    padding: 20px 200px;
+    padding: 10px 200px;
     background-color: #1F2937;
     font-size: 24px;
     color: #F9FAF8;
@@ -27,9 +27,42 @@ ul{
 
 /* HOME SECTION */
 img{
-    width: 100px;
+    width: 500px;
+    margin-left: 280px;
 }
 
 .container-home{
+    padding: 100px;
+    background-color: #1F2937;
+    gap: 90px;
     display: flex;
+    justify-content: space-around;
 }
+
+.container-home-item1{
+    width: 450px;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+p{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: 4px;
+    margin-bottom: 16px;
+}
+
+button{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    border: 0px;
+    padding: 8px 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
