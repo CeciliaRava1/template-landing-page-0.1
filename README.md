@@ -18,6 +18,7 @@ This repository contains a template for a basic landing page, developed as part 
 - 2 flex items
     - 1: h1, h3, button (column)
     - 2: image
+- Credits: Photo by Engin Akyurt: https://www.pexels.com/photo/person-holding-brush-drawing-kanji-script-1498273/
 
 # 3. Pictures
 - h2

@@ -4,6 +4,8 @@
     font-family: "Roboto", sans-serif;
 }
 
+
+/* HEADER SECTION */
 .header {
     padding: 20px 200px;
     background-color: #1F2937;
@@ -20,5 +22,14 @@ ul{
     font-size: 18px;
     font-weight: 300;
     color: #E5E7EB;
+    display: flex;
+}
+
+/* HOME SECTION */
+img{
+    width: 100px;
+}
+
+.container-home{
     display: flex;
 }
