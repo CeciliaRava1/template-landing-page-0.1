@@ -9,7 +9,7 @@ This repository contains a template for a basic landing page, developed as part 
 5. Rectangle
 6. Footer
 
-# 1. Header
+# 1. Header (completed)
 - 1 Left element
 - 3 Right elmements onto a ul
 
