@@ -13,7 +13,7 @@ This repository contains a template for a basic landing page, developed as part 
 - 1 Left element
 - 3 Right elmements onto a ul
 
-# 2. Home
+# 2. Home (completed)
 - Container - flexbox
 - 2 flex items
     - 1: h1, h3, button (column)
