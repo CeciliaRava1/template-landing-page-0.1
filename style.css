@@ -110,3 +110,23 @@ h2{
     margin-bottom: 200px;
 }
 
+/* QUOTE SECTION */
+.quote{
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+blockquote{
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    font-size: 36px;
+    text-align: center;
+    margin: 40px 300px 0px 300px;
+}
+
+h3{
+    text-align: right;
+    margin-right: 320px;
+    margin-top: 20px;
+}

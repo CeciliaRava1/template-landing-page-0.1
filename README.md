@@ -20,13 +20,13 @@ This repository contains a template for a basic landing page, developed as part 
     - 2: image
 - Credits: Photo by Engin Akyurt: https://www.pexels.com/photo/person-holding-brush-drawing-kanji-script-1498273/
 
-# 3. Pictures
+# 3. Pictures (completed)
 - h2
 - Container -flexbox
 - 4 flex items
     - image, p (column)
 
-# 4. Quote
+# 4. Quote (completed)
 - h2, align left
 - h3, align right
 
