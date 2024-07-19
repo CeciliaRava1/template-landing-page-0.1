@@ -30,7 +30,7 @@ This repository contains a template for a basic landing page, developed as part 
 - h2, align left
 - h3, align right
 
-# 5. Rectangle
+# 5. Rectangle (completed)
 - Container - flexbox
 - 2 flex items
     - h3, p (column)
